@@ -1,13 +1,27 @@
 body{
-    background: #777c96;
+    background: #d4daf8;
 }
+
+.principal{
+    background: #000000;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+.benificios{
+    background:#d4daf8;
+}
+
 p{
     text-align: center;
-    color: #cffaf2;
+    color: #000000;
 }
 
 em strong{
-    color: #bfd8b1;
+    color: #ff0000;
 }
 
 div{
